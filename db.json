@@ -1,0 +1,97 @@
+{
+    "filterNameStatusList": [{
+        "filterName": "TESTFILTERNAME",
+        "marketplaceId": "1672075681052",
+        "status": "TRIGGERED",
+        "complianceTriggerTime": "1672075681052",
+        "assignee": "sankalpq",
+        "approvalStrategy": "MANUAL_REVIEW",
+        "lastActor": "sankalpq",
+        "lastActionTime": "1672133589856",
+        "comment": "Approved for testing purpose",
+        "marketplaceCountryCode": "123",
+        "duplicateInvoiceWorkflowMetadata": {
+            "workflowId": "123324",
+            "workflowEngine": "HERD",
+            "workflowAdditionalData": {
+                "dataKey": "dataValue"
+            }
+        },
+        "testResults": [{
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }, {
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }, {
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }, {
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }]
+    }, {
+        "filterName": "TESTFILTERNAME",
+        "marketplaceId": "1672075689164",
+        "status": "PASSED_CONFIGURED_TIME",
+        "complianceTriggerTime": "1672075689164",
+        "assignee": "sankalpq",
+        "approvalStrategy": "MANUAL_REVIEW",
+        "lastActor": null,
+        "lastActionTime": null,
+        "comment": null,
+        "marketplaceCountryCode": "123",
+        "duplicateInvoiceWorkflowMetadata": {
+            "workflowId": "123324",
+            "workflowEngine": "HERD",
+            "workflowAdditionalData": {
+                "dataKey": "dataValue"
+            }
+        },
+        "testResults": [{
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }, {
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }, {
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }, {
+            "testId": "123123",
+            "type": "idontknow",
+            "status": "PASSED",
+            "metadata": {
+                "client": "beejak-client"
+            }
+        }]
+    }]
+}
